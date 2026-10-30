@@ -1,4 +1,4 @@
-# Building a Basic CI Pipeline with GitHub Actions
+# Building a  CI Pipeline with GitHub Actions
 
 ## 1. Project Overview
 
